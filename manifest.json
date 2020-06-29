@@ -1,0 +1,18 @@
+{
+  "name": "Angry Unicorn",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Angry Unicorn",
+  "homepage_url": "https://github.com/featurist/angry-unicorn",
+  "content_scripts": [
+    {
+      "matches": ["https://*github*/*"],
+      "js": ["contentscript.js"]
+    }
+  ],
+  "icons": {},
+  "browser_action": {
+    "default_title": "Angry Unicorn"
+  },
+  "permissions": ["activeTab"]
+}
