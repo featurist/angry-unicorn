@@ -14,3 +14,7 @@ Clone this repo, go to [chrome://settings](chrome://settings), click "Load unpac
 ### Fix the vertical alignment of icons in the header
 
 ![Header icons vertical alignment.png](header-icons-vertical-alignment.png)
+
+### Replace the paste icon with an old-school copy icon
+
+![Copy icon](copy-icon.png)
