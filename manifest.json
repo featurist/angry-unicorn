@@ -6,7 +6,7 @@
   "homepage_url": "https://github.com/featurist/angry-unicorn",
   "content_scripts": [
     {
-      "matches": ["https://*github*/*"],
+      "matches": ["https://github.com/**"],
       "js": ["contentscript.js"]
     }
   ],
