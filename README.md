@@ -1,8 +1,16 @@
 # angry-unicorn
 A browser extension that fixes issues with the Github UI when they implement design changes
 
-## Show the latest commit message on the default branch
+## Install in Chrome
 
+Clone this repo, go to [chrome://settings](chrome://settings), click "Load unpacked" and select the root directory of the repo.
 
-## Fix the vertical alignment of icons in the header
+## Tweaks
 
+### Show the latest commit message on the default branch
+
+![Latest commit message](latest-commit-message.png)
+
+### Fix the vertical alignment of icons in the header
+
+![Header icons vertical alignment.png](header-icons-vertical-alignment.png)
